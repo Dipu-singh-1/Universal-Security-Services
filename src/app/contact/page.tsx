@@ -65,7 +65,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900">Email</h3>
-                    <p className="text-gray-600">info@swiftsecure.com</p>
+                    <p className="text-gray-600">ussforce15@gmail.com</p>
                     <p className="text-sm text-gray-500">Quick Response Guaranteed</p>
                   </div>
                 </CardContent>
@@ -79,11 +79,11 @@ export default function ContactPage() {
                   <div>
                     <h3 className="font-semibold text-gray-900">Office Address</h3>
                     <p className="text-gray-600">
-                      SwiftSecure Head Office
+                      USS Head Office
                       <br />
-                      Sector 18, Gurgaon
+                      6/41, K-9, Kathvatiya
                       <br />
-                      Haryana - 122015
+                      Shivpur, Varanasi - 221003
                     </p>
                   </div>
                 </CardContent>

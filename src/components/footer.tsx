@@ -11,7 +11,7 @@ export default function Footer() {
             <div className="flex items-center space-x-2">
               <Shield className="h-8 w-8 text-violet-500" />
               <div>
-                <span className="text-xl font-bold">SwiftSecure</span>
+                <span className="text-xl font-bold">USS</span>
                 <p className="text-sm text-gray-400">Your Safety, Our Priority</p>
               </div>
             </div>
@@ -73,15 +73,15 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4 text-violet-500" />
-                <span className="text-gray-400 text-sm">+91 98765 43210</span>
+                <span className="text-gray-400 text-sm">+91 6393112413</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-violet-500" />
-                <span className="text-gray-400 text-sm">info@swiftsecure.com</span>
+                <span className="text-gray-400 text-sm">ussforce15@gmail.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4 text-violet-500" />
-                <span className="text-gray-400 text-sm">Delhi NCR, India</span>
+                <span className="text-gray-400 text-sm">Varansi, India</span>
               </div>
             </div>
           </div>
@@ -106,7 +106,7 @@ export default function Footer() {
             </div>
           </div>
           <div className="text-center mt-4 pt-4 border-t border-gray-800">
-            <p className="text-gray-400 text-sm">© {new Date().getFullYear()} SwiftSecure. All rights reserved.</p>
+            <p className="text-gray-400 text-sm">© {new Date().getFullYear()} USS. All rights reserved.</p>
           </div>
         </div>
       </div>
