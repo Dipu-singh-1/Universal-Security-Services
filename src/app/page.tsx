@@ -57,7 +57,7 @@ export default function HomePage() {
             </div>
             <div className="relative">
               <Image
-                src="/placeholder.svg?height=500&width=400"
+                src="/image/2.png"
                 alt="Professional Security Guard"
                 width={400}
                 height={500}
@@ -84,7 +84,7 @@ export default function HomePage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center mb-16">
             <div>
               <Image
-                src="/placeholder.svg?height=400&width=500"
+                src="/image/3.png"
                 alt="Universal Security Services Team"
                 width={500}
                 height={400}
@@ -454,7 +454,7 @@ export default function HomePage() {
             </div>
             <div>
               <Image
-                src="/placeholder.svg?height=400&width=500"
+                src="/image/1.png"
                 alt="Security Training"
                 width={500}
                 height={400}
