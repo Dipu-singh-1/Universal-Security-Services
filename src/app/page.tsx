@@ -24,7 +24,7 @@ export default function HomePage() {
       setCurrentSlide((prev) => (prev + 1) % heroImages.length)
     }, 4000)
     return () => clearInterval(timer)
-  }, [])
+  }, [heroImages.length])
 
   const testimonials = [
     {
