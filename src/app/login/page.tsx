@@ -71,7 +71,7 @@ export default function LoginPage() {
                   <Button className="w-full bg-violet-600 hover:bg-violet-700">Sign In</Button>
                   <div className="text-center">
                     <span className="text-sm text-gray-600">
-                      Don't have an account?{" "}
+                      Don&apos;t have an account?{" "}
                       <Link href="/register" className="text-violet-600 hover:underline">
                         Register here
                       </Link>
