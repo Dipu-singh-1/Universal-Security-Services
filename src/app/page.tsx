@@ -292,7 +292,7 @@ export default function HomePage() {
                       <Star key={i} className="h-5 w-5 text-yellow-400 fill-current" />
                     ))}
                   </div>
-                  <p className="text-gray-600 mb-4 italic">"{testimonial.review}"</p>
+                  <p className="text-gray-600 mb-4 italic">&quot;{testimonial.review}&quot;</p>
                   <div className="flex items-center space-x-3">
                     <Image
                       src={`/placeholder.svg?height=50&width=50&query=${testimonial.name} profile`}
