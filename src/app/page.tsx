@@ -535,7 +535,7 @@ export default function HomePage() {
               </CardHeader>
               <CardContent>
                 <div className="text-3xl font-bold text-violet-600 mb-2">
-                  ₹11,000
+                  ₹12,000
                 </div>
                 <p className="text-gray-600 mb-4">Per Month</p>
                 <p className="text-xs text-gray-500">
@@ -567,7 +567,7 @@ export default function HomePage() {
               </CardHeader>
               <CardContent>
                 <div className="text-3xl font-bold text-violet-600 mb-2">
-                  ₹10,000
+                  ₹12,000
                 </div>
                 <p className="text-gray-600 mb-4">Per Month</p>
                 <p className="text-xs text-gray-500">
