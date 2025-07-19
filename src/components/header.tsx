@@ -25,7 +25,7 @@ export default function Header() {
           <Link href="/" className="flex items-center space-x-2">
             <Shield className="h-8 w-8 text-violet-600" />
             <div>
-              <span className="text-xl font-bold text-gray-900">SwiftSecure</span>
+              <span className="text-xl font-bold text-gray-900">USS</span>
               <p className="text-xs text-gray-600">Your Safety, Our Priority</p>
             </div>
           </Link>
