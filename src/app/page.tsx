@@ -133,11 +133,11 @@ export default function HomePage() {
               Our Quality Policy
             </h3>
             <p className="text-gray-700 text-center italic leading-relaxed max-w-4xl mx-auto">
-              "We strive to provide quality security services to clients with
+            &quot;We strive to provide quality security services to clients with
               implied and futuristic needs. The management and Security
               Personnel are committed to secure long term relationship with our
               clients. We repute doing this by involving all employees at all
-              levels and constant quality & services improvement."
+              levels and constant quality & services improvement.&quot;
             </p>
           </div>
 
