@@ -46,7 +46,7 @@ export default function HomePage() {
       position: "Event Manager",
       company: "Elite Events",
       review:
-        "We've used SwiftSecure for multiple high-profile events. Their event security team is exceptional and handles crowd management perfectly.",
+        "We have used SwiftSecure for multiple high-profile events. Their event security team is exceptional and handles crowd management perfectly.",
     },
     {
       name: "Vikram Singh",
@@ -280,7 +280,7 @@ export default function HomePage() {
           <div className="text-center mb-12">
             <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">What Our Clients Say</h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Don't just take our word for it - hear from our satisfied clients
+              Don&apos;t just take our word for it - hear from our satisfied clients
             </p>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
